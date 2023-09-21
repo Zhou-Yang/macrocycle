@@ -1,3 +1,4 @@
 # macrocycle
 
-(1) functions for calculating macrocycle properties
+- functions for calculating macrocycle properties
+- functions for linking fragments 
